@@ -10,6 +10,7 @@ namespace LeetCodeLeb
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
